@@ -25,15 +25,15 @@ header {
 #nav {
     float: right;
     background-color: #ffffff;
-    /* padding-right: 300px; */
     margin-top: 20px;
     word-spacing: 10px;
     margin-right: 300px;
 }
 
 body {
-   background-image: url("assets\images\christmas-black");
+   background-image: #d3d3d3;
    height: auto;
+    /*Couldn't get background image to show.*/
    }
 
 #container {
